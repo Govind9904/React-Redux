@@ -1,0 +1,59 @@
+.container{
+    background-color: rgb(226, 223, 219);
+    border-radius: 10px;
+}
+
+form{
+    display: flex;
+     column-gap: 20px;
+     padding: 20px;
+   
+     margin-right: 50px;
+     margin-left: 50px;
+     border-radius: 10px;
+
+     text-align: center;
+     background-color: rgb(141, 70, 35);
+
+
+}
+
+
+input
+{
+  background-color: blanchedalmond;
+  text-align: center;
+  border-radius: 15px;
+  font-weight: bolder;
+  color: rgb(148, 39, 8);
+ 
+
+}
+.row{
+    align-items: center;
+    padding: 20px;
+}
+
+h1{
+    padding-top: 20px;
+    color: rgb(198, 111, 44);
+}
+
+button{
+    background-color: rgb(174, 98, 43);
+}
+ul{
+    color: rgb(161, 60, 17);
+    padding-bottom: 20px;
+
+}
+p{
+   display: flex;
+   justify-content: space-between;
+   padding-left: 50px;
+   padding-right: 80px;
+
+
+}
+
+
